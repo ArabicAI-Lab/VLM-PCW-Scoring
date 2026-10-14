@@ -1,5 +1,3 @@
-# Seeing Is Not Scoring: VLM-based Trait Assessment of Arabic Picture-Cued Writing
-
 <p align="center">
   <strong>Seeing Is Not Scoring</strong><br>
   VLM-based Trait Assessment of Arabic Picture-Cued Writing
